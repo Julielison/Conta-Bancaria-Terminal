@@ -39,7 +39,8 @@ Este é um programa simples em Java que simula uma conta bancária. Ele solicita
 > Digite o número da Conta:
 > 12345 
 > Digite o número da Agência:
-> XYZ Digite seu nome:
+> XYZ
+> Digite seu nome:
 > João da Silva
 > Digite seu saldo: 1500.50
 > Olá João da Silva, obrigado por criar uma conta em nosso banco, sua agência é XYZ, conta 12345 e seu saldo 1500.5 já está disponível para saque
