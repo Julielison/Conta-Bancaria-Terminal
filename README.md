@@ -8,7 +8,7 @@ Este é um programa simples em Java que simula uma conta bancária. Ele solicita
 
 2. Extraia os arquivos do ZIP que baixou.
 
-3. Certifique-se de ter uma JRE instala em seu Sistema Operacional, se não tiver, siga o [Tutorial](https://mauriciogeneroso.medium.com/configurando-java-1-instala%C3%A7%C3%A3o-do-jre-e-do-jdk-no-windows-38cacace0377).
+3. Certifique-se de ter uma JRE instalada em seu Sistema Operacional, se não tiver, siga o [Tutorial](https://mauriciogeneroso.medium.com/configurando-java-1-instala%C3%A7%C3%A3o-do-jre-e-do-jdk-no-windows-38cacace0377).
 
 4. Abra uma interface de linha de comandos de sua preferência, navegue até a pasta bin do arquivo que você baixou, digite a instrução a seguir e pressione `Enter`.
     ```
